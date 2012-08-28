@@ -1,0 +1,24 @@
+[submodule "taglist"]
+	path = taglist
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "webapi"]
+	path = webapi
+	url = git://github.com/mattn/webapi-vim.git
+[submodule "ack"]
+	path = ack
+	url = git://github.com/mileszs/ack.vim.git
+[submodule "indent-object"]
+	path = indent-object
+	url = git://github.com/vim-scripts/vim-indent-object.git
+[submodule "wombat256"]
+	path = wombat256
+	url = git://github.com/vim-scripts/wombat256.vim.git
+[submodule "minibufexpl"]
+	path = minibufexpl
+	url = git://github.com/fholgado/minibufexpl.vim.git
+[submodule "peepopen"]
+	path = peepopen
+	url = git@github.com:berryp/vim-peepopen.git
+[submodule "qsl"]
+	path = qsl
+	url = git@github.com:berryp/qsl.vim.git

@@ -7,8 +7,8 @@
 [submodule "ack"]
 	path = ack
 	url = git://github.com/mileszs/ack.vim.git
-[submodule "indent-object"]
-	path = indent-object
+[submodule "intent-object"]
+	path = intent-object
 	url = git://github.com/vim-scripts/vim-indent-object.git
 [submodule "wombat256"]
 	path = wombat256

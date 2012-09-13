@@ -22,3 +22,9 @@
 [submodule "qsl"]
 	path = qsl
 	url = git@github.com:berryp/qsl.vim.git
+[submodule "bundle/handlebars"]
+	path = bundle/handlebars
+	url = git://github.com/nono/vim-handlebars.git
+[submodule "handlebars"]
+	path = handlebars
+	url = git://github.com/nono/vim-handlebars.git
